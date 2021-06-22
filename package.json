@@ -139,7 +139,7 @@
     "protractor": "^5.4.2",
     "raw-loader": "^1.0.0",
     "remap-istanbul": "^0.13.0",
-    "standard-version": "^5.0.2",
+    "standard-version": "^8.0.1",
     "ts-loader": "^5.2.0",
     "ts-node": "^8.3.0",
     "tsickle": "^0.34.3",
